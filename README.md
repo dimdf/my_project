@@ -1,9 +1,5 @@
 # my_project
 В данном репозитории собраны следующие проекты:
-- ab;
-- bank;
-- mobile_app.
-
  
 <table>
 <thead>
